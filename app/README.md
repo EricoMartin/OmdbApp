@@ -10,8 +10,15 @@ The app follows clean architecture principles with **MVVM**, **Hilt** for depend
 - 🔍 **Search Movies** — Search any movie by title using OMDb API.
 - 🎞️ **Movie Grid** — Displays results in a clean 2-column grid with posters and titles.
 - 📄 **Movie Detail Screen** — Tap a movie to view its full details like title, year, and genre.
-- 💾 **Offline Caching** — Saves movie search results loca
+- 💾 **Offline Caching** — Saves movie search results locally with Room for quick access.
+- ⚡ **Reactive UI** — Built entirely with Jetpack Compose and StateFlow.
+- 💉 **Dependency Injection** — Powered by Hilt for modular and testable code.
 
+---
+
+## 🧱 Architecture
+
+The app is built using **MVVM (Model–View–ViewModel)** pattern and **Clean Architecture** principles.
 
 ---
 
