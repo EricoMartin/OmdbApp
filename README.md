@@ -40,8 +40,8 @@ The app is built using **MVVM (Model–View–ViewModel)** pattern and **Clean A
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/omdb-movie-app.git
-   cd omdb-movie-app
+   git clone https://github.com/EricoMartin/OmdbApp.git
+   cd OmdbApp
     ```
 2.   **Add your OMDb API Key:**
      - Open your app-level build.gradle file. 
