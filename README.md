@@ -52,5 +52,4 @@ The app is built using **MVVM (Model–View–ViewModel)** pattern and **Clean A
 4. Run the app on an emulator or physical device.
 
 ## 📸 Screenshot!
-[WhatsApp Image 2025-10-27 at 3.39.41 PM.jpeg](../../../Downloads/WhatsApp%20Image%202025-10-27%20at%203.39.41%20PM.jpeg)
 
