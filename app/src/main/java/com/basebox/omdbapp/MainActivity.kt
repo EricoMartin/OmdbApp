@@ -20,7 +20,6 @@ import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import com.basebox.omdbapp.ui.screens.DetailScreen
 import com.basebox.omdbapp.ui.screens.OmdbHomeScreen
 import com.basebox.omdbapp.ui.theme.OMDbAppTheme
-import com.basebox.omdbapp.ui.viewmodel.OmdbViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

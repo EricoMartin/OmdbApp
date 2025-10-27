@@ -1,11 +1,8 @@
 package com.basebox.omdbapp.ui.viewmodel
 
-import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.distinctUntilChanged
 import androidx.lifecycle.viewModelScope
 import com.basebox.omdbapp.data.local.entity.MovieEntity
-import com.basebox.omdbapp.data.remote.MovieDetail
 import com.basebox.omdbapp.data.repository.Repository
 import com.basebox.omdbapp.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel

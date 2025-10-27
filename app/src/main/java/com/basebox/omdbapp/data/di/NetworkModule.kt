@@ -1,6 +1,5 @@
 package com.basebox.omdbapp.data.di
 
-import com.basebox.omdbapp.BuildConfig
 import com.basebox.omdbapp.data.remote.service.ApiService
 import com.squareup.moshi.Moshi
 import dagger.Module
