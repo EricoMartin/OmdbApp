@@ -18,7 +18,7 @@ object DatabaseModule {
     @Singleton
     fun provideDatabase(@ApplicationContext ctx: Context): OmdbDatabase =
         Room.databaseBuilder(ctx, OmdbDatabase::class.java, "app_database")
-            .fallbackToDestructiveMigration() // dev-friendly; provide migrations for prod
+            .fallbackToDestructiveMigration(false) // dev-friendly; provide migrations for prod
             .build()
 
     @Provides
