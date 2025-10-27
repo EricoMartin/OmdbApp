@@ -46,8 +46,7 @@ The app is built using **MVVM (Model–View–ViewModel)** pattern and **Clean A
 2.   **Add your OMDb API Key:**
      - Open your app-level build.gradle file. 
      - Add your API key inside buildConfigField:
-          ```buildConfigField("String", "OMDB_API_KEY", "YOUR_API_KEY_HERE")
-       ```
+          ```buildConfigField("String", "OMDB_API_KEY", "YOUR_API_KEY_HERE")```
 3. Sync the project in Android Studio. 
 4. Run the app on an emulator or physical device.
 
