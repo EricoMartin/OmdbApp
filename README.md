@@ -52,3 +52,4 @@ The app is built using **MVVM (Model–View–ViewModel)** pattern and **Clean A
 
 ## 📸 Screenshot!
 
+<img src="https://github.com/user-attachments/assets/6a6b5335-777d-49fa-92b3-23248d2530a3" width="15%" alt="App Screenshot" />
